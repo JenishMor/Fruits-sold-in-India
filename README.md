@@ -1,5 +1,4 @@
-# dv-final-project-6-ce-2022-606168
-dv-final-project-6-ce-2022-606168 created by GitHub Classroom
+This Dashboard is for data visualization of Fruits sold in india from year 2013 to 2021.
 
 Dashboard Snapshots
 ![Screenshot (675)](https://user-images.githubusercontent.com/82307389/165451600-9e16b19f-8ded-4d19-905b-90e121690f09.png)
